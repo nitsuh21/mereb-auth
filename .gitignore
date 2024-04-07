@@ -2,6 +2,6 @@
 .env
 venv
 env
-./.gitgnore
+./gitgnore
 ./venv
 ./env
